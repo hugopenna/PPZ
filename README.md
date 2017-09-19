@@ -9,5 +9,6 @@ O Objetido deste repositório é anotar a minha evolução no aprendizado de pro
 
 ### Milestones
 Lista nº 1 concluida (2017-07-08)
+
 Lista nº 2 concluida (2017-09-01)
 
