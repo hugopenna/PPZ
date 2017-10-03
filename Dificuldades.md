@@ -8,3 +8,15 @@ Ao instalar o IDLE através do terminal (sudo apt-get install IDLE) e depois rod
 Não estou conseguindo iniciar o IDLE com o Python 3, estou procurando na net como fazer:
 
 " sudo apt-get install IDLE3 " - para conseguir instalar o IDLE para Python 3.x
+
+### Dificuldade #3
+Invalid syntax e um ")"
+Fiquei quase 40 minutos procurando o erro e me perguntando porque o código não funcionava corretamente, até a quebra de linha com o enter estava estranha, até que percebi que era a falta de fechar o o bendito parêntese.
+
+Código:
+
+  letras.append(input("Letra: ") **)**
+  
+  i += 1
+  
+  O que me fez ficar perdido foi o fato do erro apontar para o "i" na linha do acumulador e não na linha do erro em si.
