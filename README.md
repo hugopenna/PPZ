@@ -8,7 +8,9 @@ SO: Ubuntu 17.04
 O Objetido deste repositório é anotar a minha evolução no aprendizado de programação.
 
 ### Milestones
-Lista nº 1 concluida (2017-07-08)
+(2017-07-08) Começando com o básico
 
-Lista nº 2 concluida (2017-09-01)
+(2017-09-01) Mastigando estruturas de controle 
+
+(2017-10-04) Atacando os tipos básicos 
 
